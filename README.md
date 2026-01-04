@@ -1,16 +1,30 @@
-## Hi there 👋
+# Louqmane 💻
 
-<!--
-**LouqmaneB/LouqmaneB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich erstelle Webanwendungen als Full-Stack-Entwickler.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Kenntnisse
+- JavaScript, Python
+- ReactJs, Leaflet, ThreeJs, Drei
+- Node.js, Express, NestJs, Flask  
+- MongoDB, MySQL  
+- HTML, CSS  
+- Blender, GitHub, Postman
+
+---
+
+## 📌 Projekte
+-  (Working on !!)  
+
+---
+
+## 📖 Arbeitsweise
+- Strukturiert und organisiert  
+- Klare Dokumentation  
+- Selbstständiges Lernen  
+
+---
+
+## 📬 Kontakt
+- LinkedIn: [louqmane-bamousse](https://www.linkedin.com/in/louqmane-bamousse/)
